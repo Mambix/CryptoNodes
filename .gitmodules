@@ -1,0 +1,3 @@
+[submodule "BTC/bitcore"]
+	path = BTC/bitcore
+	url = git@github.com:Mambix/bitcore.git
