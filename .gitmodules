@@ -1,3 +1,6 @@
 [submodule "BTC/bitcore"]
 	path = BTC/bitcore
 	url = git@github.com:Mambix/bitcore.git
+[submodule "LTC/litecore"]
+	path = LTC/litecore
+	url = https://github.com/Mambix/litecore
